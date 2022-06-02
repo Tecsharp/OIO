@@ -2,6 +2,16 @@ import java.util.ArrayList;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
+import vehiculo.partes.Asientos;
+import vehiculo.partes.Cajuela;
+import vehiculo.partes.Carro;
+import vehiculo.partes.Interior;
+import vehiculo.partes.Llanta;
+import vehiculo.partes.Motor;
+import vehiculo.partes.Puertas;
+import vehiculo.partes.Sonido;
+import vehiculo.partes.Volante;
+
 public class Main {
 
 	public static void main(String[] args) throws InputMismatchException {
